@@ -4133,3 +4133,13 @@ https://www.cisco.com/c/en/us/td/docs/ios/12_2sr/12_2sra/feature/guide/srmgtint.
 https://thehackernews.com/2024/03/github-rolls-out-default-secret.html
 https://github.com/xephora/Threat-Remediation-Scripts/tree/main/Threat-Track/CS_INSTALLER
 https://intel.thedfirreport.com/events/view/30032
+https://www.attackiq.com/2023/09/20/emulating-rhysida/
+https://github.com/swagkarna/Defeat-Defender-V1.2.0/tree/ae4059c4276da6f6303b8f53cdff085ecae88a91
+https://www.hexacorn.com/blog/2015/01/13/beyond-good-ol-run-key-part-24/
+https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/takeown
+https://www.hexacorn.com/blog/2024/01/06/1-little-known-secret-of-fondue-exe/
+https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-4625
+https://docs.microsoft.com/en-us/windows/win32/etw/configuring-and-starting-an-autologger-session
+https://www.virustotal.com/gui/file/54d60fd58d7fa3475fa123985bfc1594df26da25c1f5fbc7dfdba15876dd8ac5/behavior
+https://blog.eclecticiq.com/china-nexus-nation-state-actors-exploit-sap-netweaver-cve-2025-31324-to-target-critical-infrastructures
+https://cloud.google.com/blog/topics/threat-intelligence/unc3944-targets-saas-applications
